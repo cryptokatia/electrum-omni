@@ -1,5 +1,7 @@
-Electrum-OMNI Lightweight Bitcoin & OMNI client
+Electrum-OMNI Lightweight Bitcoin & USDT client developed by CODEX Exchange Team
 =================================================
+
+CODEX Exchange team shares the USDT client for USDT currency based on Omni layer protocol cold storage.
 
 ::
 
